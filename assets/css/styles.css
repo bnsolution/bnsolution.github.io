@@ -768,19 +768,19 @@ form textarea.form-control {
 header {
   background: #66cdcc;
   /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: -moz-linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #252A3A), color-stop(100%, #336799));
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgb(51,102,149)), color-stop(100%, rgb(154,201,218)));
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: -webkit-linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: -o-linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: -ms-linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* IE10+ */
-  background: linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#252A3A, endColorstr=#336799, GradientType=1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=rgb(51,102,149), endColorstr=rgb(154,201,218), GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
 }
 header .navbar-default ul.navbar-nav li a {
@@ -1023,19 +1023,19 @@ section#support .media:hover h3 {
 footer {
   background: #66cdcc;
   /* Old browsers */
-  background: -moz-linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: -moz-linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* FF3.6+ */
-  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #252A3A), color-stop(100%, #336799));
+  background: -webkit-gradient(linear, left top, right bottom, color-stop(0%, rgb(51,102,149)), color-stop(100%, rgb(154,201,218)));
   /* Chrome,Safari4+ */
-  background: -webkit-linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: -webkit-linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* Chrome10+,Safari5.1+ */
-  background: -o-linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: -o-linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* Opera 11.10+ */
-  background: -ms-linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: -ms-linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* IE10+ */
-  background: linear-gradient(-45deg, #252A3A 0%, #336799 100%);
+  background: linear-gradient(-45deg, rgb(51,102,149) 0%, rgb(154,201,218) 100%);
   /* W3C */
-  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#252A3A, endColorstr=#336799, GradientType=1);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=rgb(51,102,149), endColorstr=rgb(154,201,218), GradientType=1);
   /* IE6-9 fallback on horizontal gradient */
 }
 footer .social a {
